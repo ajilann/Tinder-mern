@@ -12,7 +12,7 @@ export default function SwipeButtons() {
     return (
         <div className="swipeButtons">
             <IconButton className="swipeButtons__repeat">
-                <ReplayIcon fontSize="Large" />
+                <ReplayIcon fontSize="large" />
             </IconButton>
             <IconButton className="swipeButtons__left">
                 <CloseIcon fontSize="large" />
